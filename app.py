@@ -18,7 +18,7 @@ class Application(tk.Frame):
 
     def create_widgets(self):
         self.btn_main_profile = tk.Button(self)
-        self.btn_main_profile["text"] = "Main Profile\n(Free-MeN4)"
+        self.btn_main_profile["text"] = "Main Profile"
         self.btn_main_profile["command"] = self.switch_to_main_profile
         self.btn_main_profile.pack(side="top", pady=5)
 
