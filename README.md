@@ -20,3 +20,5 @@ after that, login to the alternative account and redo the copy using the other d
 `%LOCALAPPDATA%\Discord` --> `%USERPROFILE%\discord_profiles\alt_profile\Local\Discord`
 
 `%APPDATA%\Discord` --> `%USERPROFILE%\discord_profiles\alt_profile\Roaming\Discord`
+
+tags: discord, multi-user, multiuser
